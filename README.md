@@ -14,7 +14,7 @@ From a professional viewpoint, my more important projects include using the R pr
 
 Wanting to continue my love for biology and coding, I hiked, collaborated, and collected data with licensed arborists the following summer in order to gather research data on the amount of damage done to different tree species in the Big Basin Northern California Wildfire.
 
-## Contacts
+# Contact
 isaacsantillan@email.com 
 
 831-854-8065
