@@ -12,5 +12,4 @@ Some of my personal favorite projects include rebuilding the popular app games F
 # Contact
 isaacsantillan54@gmail.com 
 
-831-854-8065
 
